@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.uvic-cfar.swim</groupId>
 	<artifactId>milstd2525</artifactId>
-	<version>1.0.0-alpha2-SNAPSHOT</version>
+	<version>1.0.0-alpha2</version>
 	<packaging>bundle</packaging>
 	<name>Military Standard 2525</name>
 	<description>Military Standard 2525 Symbol Set Resource</description>
